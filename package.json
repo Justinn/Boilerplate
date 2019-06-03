@@ -1,0 +1,26 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Application.js",
+  "scripts": {
+    "server": "node Application"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justinn/Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justinn/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/Justinn/Boilerplate#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.1",
+    "pg": "^7.11.0",
+    "sequelize": "^5.8.7",
+    "volleyball": "^1.5.1"
+  }
+}
